@@ -1,1 +1,1 @@
-# CI/CD com nestjs e heroku
+# CD "continuous delivery" com nestjs e heroku
